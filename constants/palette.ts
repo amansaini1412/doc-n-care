@@ -1,0 +1,21 @@
+/** Premium skincare palette — warm ivory, deep brown, muted gold. */
+export const Palette = {
+  ivory: '#F9F6F0',
+  cream: '#F1E9DC',
+  beige: '#E8DCCB',
+  primary: '#594536',
+  primaryDeep: '#292521',
+  gold: '#B69A70',
+  sage: '#A7B49A',
+  ink: '#292521',
+  muted: '#6F665C',
+  white: '#FFFFFF',
+  overlay: 'rgba(89, 69, 54, 0.08)',
+  overlayStrong: 'rgba(89, 69, 54, 0.14)',
+  success: '#6E8B6E',
+  warning: '#C4A35A',
+  danger: '#B85C4A',
+  dangerSoft: '#F8EEEA',
+  dangerBorder: '#E8C8C0',
+  dangerText: '#8C3F32',
+} as const;
